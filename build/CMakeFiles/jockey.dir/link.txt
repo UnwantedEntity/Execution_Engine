@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libjockey.a CMakeFiles/jockey.dir/src/api_unhooking.c.obj CMakeFiles/jockey.dir/src/byovd_loader.c.obj CMakeFiles/jockey.dir/src/inject.c.obj CMakeFiles/jockey.dir/src/other_injections.c.obj CMakeFiles/jockey.dir/src/process_hollowing.c.obj CMakeFiles/jockey.dir/src/reflective_dll.c.obj CMakeFiles/jockey.dir/src/pal/pal_win.c.obj CMakeFiles/jockey.dir/src/syscalls/syscalls_win.c.obj
+C:\msys64\ucrt64\bin\ranlib.exe libjockey.a
